@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'duka',
     'item',
     'cart',
+    'talk',
 ]
 
 MIDDLEWARE = [
