@@ -1,1 +1,1 @@
-web: gunicorn 'Alaris.wsgi'
+web: gunicorn 'shopy.Alaris.wsgi'
