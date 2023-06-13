@@ -1,1 +1,1 @@
-web: waitress-serve Alaris.wsgi
+web: gunicorn 'Alaris.wsgi'
